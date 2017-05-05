@@ -3,3 +3,4 @@ App for college fest.
 consisting of map layout.
 consisting of collapsing toolbar layout with tab view.
 Recycler view with cardview.
+Shows notification at perticular time using alarm manager
